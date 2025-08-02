@@ -1,3 +1,56 @@
+Day 2 App: MoodMail – Emotion-Based Email Generator
+
+✅ This app takes your mood (like “happy” or “sad”) and instantly gives you a creative email subject line + a footer emoji signature — all based on how you feel.
+
+⸻
+
+💡 What You’ll Learn Today:
+
+* Handling user input with useState
+* Logic mapping: mood → smart output
+* String manipulation (toLowerCase, includes check)
+* Conditional rendering (if / else if / else)
+* Clean UI design with TailwindCSS + ShadCN
+* Folder-based file separation for reusability
+
+⸻
+
+🧠 Tech Stack Covered:
+
+✅ React + Vite (TypeScript)
+✅ Tailwind CSS
+✅ ShadCN UI Components
+❌ Firebase (coming on Day 3 👀)
+
+⸻
+
+🎯 Why This Matters in Interviews:
+
+* Demonstrates real-world string logic
+* Shows you can build dynamic input-based UIs
+* Good intro to form handling + conditional display
+* Tests your frontend thinking beyond static pages
+
+⸻
+
+📌 Extra  Task:
+	1.	Rebuild the MoodMail app using your own moods (try “nervous”, “excited”).
+	2.	Add emoji suggestions or quotes based on the mood.
+	3.	Improve the subject by adding today’s date (bonus: use Date()).
+	4.	Add a “Copy to Clipboard” button to copy the subject/footer.
+
+⸻
+
+🧪 5 Interview Questions Based on Today’s App:
+	1.	How do you handle user input in React?
+	2.	What’s the difference between if and switch? Which would be better here?
+	3.	How can you normalize user input (like case-insensitive checks)?
+	4.	What are controlled components in React?
+	5.	How would you make this dynamic with Firebase or AI APIs?
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
