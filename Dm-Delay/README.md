@@ -1,3 +1,42 @@
+Day 1 App: DM Delay Button
+✅ This app delays your message with a timer before sending — giving you a chance to cancel it.
+
+💡 What you’ll learn today:
+* setTimeout() & clearTimeout()
+* useState for message, delay, timer
+* Conditional rendering (Send vs Cancel)
+* Clean UI with TailwindCSS + ShadCN
+* Folder structure: components/pages separation
+* Real-world thinking — “Undo” logic in messaging
+
+🧠 Tech Stack Covered:
+✅ React + Vite (TypeScript)
+✅ Tailwind CSS
+✅ ShadCN UI Components
+❌ Firebase (we’ll add later)
+
+🎯 Why This Matters in Interviews:
+* Shows you understand timers (async logic)
+* Good for system design questions (cancel queues, message buffers)
+* Demonstrates clean UI logic with conditional rendering
+
+📌 Extra Task: 
+1. Recreate the DM Delay Button app from scratch.
+2. Add a custom delay input (10s/30s/60s).
+3. Replace “Message Sent” with a toast notification.
+4. Optional: Add a message preview before sending.
+
+🧪 5 Interview Questions Based on Today’s App:
+1. How does setTimeout() work in JavaScript?
+2. What is the purpose of clearTimeout()?
+3. What are React hooks, and how did we use them here?
+4. How can you conditionally render a UI component in React?
+5. How would you convert this to work with a backend like Firebase?
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
