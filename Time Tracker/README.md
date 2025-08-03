@@ -1,3 +1,44 @@
+ Day 3: Build a Time Tracker Pie Chart App using React, Tailwind CSS, ShadCN & Chart.js
+
+
+🚀 What You'll Learn :
+✅ How to build a React project with Vite and TypeScript
+✅ How to use Chart.js in React to visualize data
+✅ Create reusable components (Form + Chart)
+✅ Style beautifully with Tailwind CSS & ShadCN
+✅ Real-world project logic: user input, state updates, chart rendering
+✅ Best practices for beginner React projects
+
+🧑‍💻 Tech Stack Used:
+React + Vite (with TypeScript)
+Tailwind CSS for styling
+ShadCN UI components
+Chart.js for data visualization
+No Firebase yet (Coming on Day 4!)
+
+📁 Folder Structure
+src/
+├── components/
+│   ├── TimeInputForm.tsx
+│   └── TimeChart.tsx
+├── pages/
+│   └── Home.tsx
+├── App.tsx
+├── main.tsx
+└── index.css
+
+🎯  Tasks:
+Show total hours tracked and warn if over 24
+Let users pick a color for each activity
+Save the data using localStorage (optional)
+
+🔎 Interview Questions You’ll Be Ready For:
+• How to use Chart.js in React
+• Difference between controlled & uncontrolled components
+• How to manage dynamic lists in React
+• Real-world usage of useState and component props
+• How to structure clean and scalable React apps
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
