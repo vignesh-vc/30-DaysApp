@@ -1,3 +1,37 @@
+Day 4: Build a Firebase Notes App with React + Tailwind + Firestore | Fullstack Beginner Project
+
+Today we’re building a powerful yet beginner-friendly Notes App using React, Tailwind CSS, ShadCN, and Firebase Firestore. This is our first full-stack project in the 30-day challenge where data is stored and synced live via Firebase. Perfect for understanding real-time databases in modern web apps.
+
+
+🧰 Tech Stack
+React + Vite (TypeScript)
+Tailwind CSS
+ShadCN UI
+Firebase (Firestore only)
+
+💡 What You’ll Learn:
+✅ How to set up and integrate Firebase Firestore
+✅ Add, display, and delete notes from Firestore
+✅ Real-time syncing using onSnapshot
+✅ Firestore addDoc, collection, and deleteDoc
+✅ Clean React component architecture
+✅ Styling with Tailwind + ShadCN for beautiful UI
+✅ Folder separation (lib/firebase.ts)
+
+🧠 Real-World Interview Readiness:
+* How does Firestore handle real-time updates?
+* What are async data listeners in React?
+* How do you structure a full-stack app frontend + backend?
+* How would you secure a Firestore collection for user-specific data?
+
+Task:
+Add an “Edit Note” feature
+Show created timestamps for each note
+Add tags or categories to filter notes
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
